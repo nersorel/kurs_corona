@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/matin/Desktop/COVID19-master/vemath.cpp
+algorithm
+-
+vemath.h
+C:/Users/matin/Desktop/COVID19-master/vemath.h
+
+C:/Users/matin/Desktop/COVID19-master/vemath.h
+cmath
+-
+vector
+-
+cstdlib
+-
+fstream
+-
+complex
+-
+
