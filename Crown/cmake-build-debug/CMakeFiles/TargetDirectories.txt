@@ -1,4 +1,4 @@
-C:/Users/matin/Desktop/COVID19-master/cmake-build-debug/CMakeFiles/vemath.dir
-C:/Users/matin/Desktop/COVID19-master/cmake-build-debug/CMakeFiles/COVID19.dir
-C:/Users/matin/Desktop/COVID19-master/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/matin/Desktop/COVID19-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/matin/Desktop/Crown/cmake-build-debug/CMakeFiles/vemath.dir
+C:/Users/matin/Desktop/Crown/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/matin/Desktop/Crown/cmake-build-debug/CMakeFiles/CROWN.dir
+C:/Users/matin/Desktop/Crown/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/matin/Desktop/COVID19-master/vemath.cpp
+C:/Users/matin/Desktop/Crown/vemath.cpp
 algorithm
 -
 vemath.h
-C:/Users/matin/Desktop/COVID19-master/vemath.h
+C:/Users/matin/Desktop/Crown/vemath.h
 
-C:/Users/matin/Desktop/COVID19-master/vemath.h
+C:/Users/matin/Desktop/Crown/vemath.h
 cmath
 -
 vector

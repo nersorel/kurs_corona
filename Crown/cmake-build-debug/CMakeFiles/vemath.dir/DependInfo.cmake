@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/matin/Desktop/COVID19-master/vemath.cpp" "C:/Users/matin/Desktop/COVID19-master/cmake-build-debug/CMakeFiles/vemath.dir/vemath.cpp.obj"
+  "C:/Users/matin/Desktop/Crown/vemath.cpp" "C:/Users/matin/Desktop/Crown/cmake-build-debug/CMakeFiles/vemath.dir/vemath.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 
