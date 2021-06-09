@@ -130,7 +130,7 @@ int main() {
         rectangle.move(SCREEN_WIDTH/2 - pole.set_R()*SCALE, SCREEN_HEIGHT/2 - pole.set_R()*SCALE);
         rectangle.setFillColor(sf::Color(255, 255, 255));
         rectangle.setOutlineThickness(10.f); // устанавливаем толщину контура круга
-        rectangle.setOutlineColor(sf::Color(80,220,50)); // устанавливаем цвет контура
+        rectangle.setOutlineColor(sf::Color(80,255,50)); // устанавливаем цвет контура
         window.draw(rectangle);
 
         for(int i = 0; i < turtles.size(); i++)
